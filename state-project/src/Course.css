@@ -1,0 +1,8 @@
+.course{
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    img{
+        width: 350px;
+    }
+}
